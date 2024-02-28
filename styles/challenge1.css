@@ -1,0 +1,89 @@
+p {
+  font-family: Arial;
+  color:white;
+}
+
+.main-head {
+  font-family:'Source Sans Pro', sans-serif;
+  font-size:40px;
+  font-weight: bold;
+  direction: ltr;
+  margin-left:20px;
+}
+.yellow-main-head{
+  color:rgb(255, 196, 0);
+}
+.des {
+  font-family:"IBM Plex Sans Arabic", sans-serif;
+  font-size:20px;
+  direction:rtl;
+  width:580px;
+}
+
+.but1,
+.but2 {
+  margin-top:30px;
+}
+.but1{
+  background-color: rgb(255, 196, 0);
+  font-family:"IBM Plex Sans Arabic", sans-serif;
+  font-weight: bold;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  direction: rtl;
+  border:none;
+  border-style: solid;
+  border-radius:7px;
+  text-align: center;
+  display: inline-block;
+  text-align: center;
+  margin-left:170px;
+  transition:opacity 0.15s;
+  cursor:pointer;
+}
+.but1:hover {
+  opacity:0.7
+}
+.but2 {
+  background-color: rgb(255, 196, 0);
+  font-family:"IBM Plex Sans Arabic", sans-serif;
+  font-weight: bold;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  direction: rtl;
+  border:none;
+  border-style: solid;
+  border-radius:7px;
+  text-align: center;
+  display: inline-block;
+  text-align: center;
+  margin-left:16px;
+  transition:opacity 0.15s;
+  cursor:pointer;
+}
+.but2:hover {
+  opacity:0.7
+}
+.hadra {
+  display: inline-block;
+  width:600px;
+  vertical-align: top;
+  margin-top:80px;
+}
+.emg {
+  width: 500px;
+  display:inline-block;
+  margin-left:10px;
+  margin-top:10px;
+  vertical-align: top;
+}
+.copy {
+  font-family:'Source Sans Pro', sans-serif;
+  font-size:15px;
+  color:rgb(107, 114, 128);
+  margin-left:30px;
+}
